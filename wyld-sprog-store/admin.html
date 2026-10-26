@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Wyld Sprog — Store admin</title>
+  <link rel="icon" href="assets/mark.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="admin.css">
+</head>
+<body>
+  <header class="admin-header">
+    <a class="wordmark" href="/" aria-label="Wyld Sprog storefront"><span class="mark">w<span>✳</span></span><span>wyld<br><b>sprog</b></span></a>
+    <div class="admin-label">STORE ADMIN <span id="mode-label">· PREVIEW</span></div>
+    <button id="logout" hidden>Sign out</button>
+  </header>
+
+  <main class="admin-main">
+    <section class="login-card" id="login-view">
+      <div class="eyebrow">WYLD SPROG · STORE ADMIN</div>
+      <h1>Welcome back, <em>boss.</em></h1>
+      <p>Manage the full catalog, size-level stock, orders, shipping and store settings in one place.</p>
+      <form id="login-form">
+        <label>Admin password<input id="admin-password" type="password" autocomplete="current-password" required placeholder="Enter admin password"></label>
+        <button type="submit">Open dashboard <span>↗</span></button>
+      </form>
+      <small>For this preview, use the password documented in the store README. Set <code>WYLD_ADMIN_PASSWORD</code> before launch.</small>
+    </section>
+
+    <section id="admin-view" hidden>
+      <div class="admin-title"><div><div class="eyebrow">DIRECT FROM WYLD SPROG</div><h1>Store <em>dashboard.</em></h1><p>Your products, inventory and orders — all on your own store.</p></div><button id="refresh" class="secondary">Refresh data <span>↻</span></button></div>
+      <div class="stats-grid"><div><span>STYLES</span><b id="stat-products">0</b><small>Active product records</small></div><div><span>AVAILABLE SIZES</span><b id="stat-variants">0</b><small>Size variants ready to order</small></div><div><span>ORDERS</span><b id="stat-orders">0</b><small>Cash-on-delivery orders</small></div><div><span>ORDER VALUE</span><b id="stat-revenue">₹0</b><small>Excluding cancelled orders</small></div></div>
+      <nav class="admin-tabs" aria-label="Admin sections"><button data-tab="inventory" class="active">Inventory</button><button data-tab="orders">Orders</button><button data-tab="catalog">Catalog</button><button data-tab="settings">Settings</button></nav>
+
+      <section class="admin-tab" id="tab-inventory">
+        <div class="tab-head"><div><h2>Size-level inventory</h2><p>Set a number for precise stock, or leave it blank to show “Available” without a count.</p></div><input id="inventory-search" type="search" placeholder="Search styles, SKUs or categories" aria-label="Search inventory"></div>
+        <div class="table-wrap"><table class="data-table inventory-table"><thead><tr><th>Style</th><th>Category</th><th>Price</th><th>Sizes & stock</th><th></th></tr></thead><tbody id="inventory-body"></tbody></table></div>
+      </section>
+
+      <section class="admin-tab" id="tab-orders" hidden>
+        <div class="tab-head"><div><h2>Orders</h2><p>Cash-on-delivery orders are saved here. Mark an order cancelled to restock counted items.</p></div></div>
+        <div class="table-wrap"><table class="data-table orders-table"><thead><tr><th>Order</th><th>Customer</th><th>Items</th><th>Total</th><th>Status</th><th></th></tr></thead><tbody id="orders-body"></tbody></table></div>
+      </section>
+
+      <section class="admin-tab" id="tab-catalog" hidden>
+        <div class="tab-head"><div><h2>Product catalog</h2><p>Replace the 90 seed styles with your approved product feed, or export the current catalog to edit offline.</p></div></div>
+        <div class="catalog-actions"><button id="download-catalog" class="secondary">Download catalog JSON <span>↓</span></button><label class="upload-label">Choose replacement JSON<input id="catalog-file" type="file" accept="application/json,.json"></label><button id="import-catalog">Replace catalog <span>↑</span></button></div>
+        <p class="file-note" id="file-note">No file selected. The JSON must contain a <code>products</code> array with SKU, name, category, price, MRP and sizes.</p>
+        <div class="schema-note"><b>Minimum product shape</b><pre>{
+  "sku": "WS-TS-001",
+  "name": "Women Unicorn Printed T-shirt",
+  "category": "T-shirts",
+  "price": 358,
+  "mrp": 1199,
+  "image": "assets/products/p16.jpg",
+  "sizes": [{ "size": "XL", "available": true, "stock": 8 }]
+}</pre></div>
+      </section>
+
+      <section class="admin-tab" id="tab-settings" hidden>
+        <div class="tab-head"><div><h2>Store settings</h2><p>These values appear in checkout and the store policies. Replace the example support email before launch.</p></div></div>
+        <form id="settings-form" class="settings-form"><label>Store name<input name="storeName" required></label><label>Support email<input name="supportEmail" type="email" required></label><label>Shipping fee (₹)<input name="shippingFee" type="number" min="0" required></label><label>Free shipping over (₹)<input name="freeShippingThreshold" type="number" min="0" required></label><label class="wide">Shipping policy<textarea name="shippingPolicy" rows="3" required></textarea></label><label class="wide">Returns policy<textarea name="returnPolicy" rows="3" required></textarea></label><label class="checkbox-label wide"><input name="codEnabled" type="checkbox"> Enable cash on delivery</label><button type="submit">Save settings <span>↗</span></button></form>
+      </section>
+    </section>
+  </main>
+  <div class="toast" id="toast" role="status"></div>
+  <script src="admin.js"></script>
+</body>
+</html>

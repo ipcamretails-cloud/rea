@@ -1,0 +1,11 @@
+{
+  "storeName": "Wyld Sprog",
+  "currency": "INR",
+  "shippingFee": 49,
+  "freeShippingThreshold": 999,
+  "shippingPolicy": "Dispatch in 1–2 business days. Delivery usually takes 3–7 business days.",
+  "returnPolicy": "7-day easy returns on unused, unwashed items with tags attached.",
+  "supportEmail": "hello@wyldsprog.example",
+  "codEnabled": true,
+  "upiEnabled": false
+}

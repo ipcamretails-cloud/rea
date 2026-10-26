@@ -1,0 +1,13 @@
+{
+  "name": "wyld-sprog-store",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Independent Wyld Sprog brand storefront with a dependency-free order server and admin inventory panel.",
+  "scripts": {
+    "start": "node server.js",
+    "build:catalog": "python3 tools/build-catalog.py"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

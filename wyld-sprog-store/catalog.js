@@ -1,0 +1,2163 @@
+/* Generated from data/catalog.json by tools/build-catalog.py. */
+window.WYLD_PRODUCTS = [
+  {
+    "sku": "WS-TS-001",
+    "styleRef": "30134025",
+    "name": "Women Unicorn Printed Pure Cotton T-shirt · XL",
+    "gender": "Women",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 358,
+    "mrp": 1199,
+    "discount": 70,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p16.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "XL",
+        "sku": "WS-TS-001-XL",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-002",
+    "styleRef": "29956117",
+    "name": "Women Typography Printed Pure Cotton T-shirt · XL",
+    "gender": "Women",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 358,
+    "mrp": 1199,
+    "discount": 70,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p17.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "XL",
+        "sku": "WS-TS-002-XL",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-003",
+    "styleRef": "29956116",
+    "name": "Women Graphic Printed Pure Cotton T-shirt · M",
+    "gender": "Women",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 358,
+    "mrp": 1199,
+    "discount": 70,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p18.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "M",
+        "sku": "WS-TS-003-M",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-004",
+    "styleRef": "29956115",
+    "name": "Women Graphic Printed Pure Cotton T-shirt · M",
+    "gender": "Women",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 358,
+    "mrp": 1199,
+    "discount": 70,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p16.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "M",
+        "sku": "WS-TS-004-M",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-005",
+    "styleRef": "29956114",
+    "name": "Women Graphic Printed Pure Cotton T-shirt · M",
+    "gender": "Women",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 358,
+    "mrp": 1199,
+    "discount": 70,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p17.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "M",
+        "sku": "WS-TS-005-M",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-006",
+    "styleRef": "29956113",
+    "name": "Women Graphic Printed Pure Cotton T-shirt · L",
+    "gender": "Women",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 358,
+    "mrp": 1199,
+    "discount": 70,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p18.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "L",
+        "sku": "WS-TS-006-L",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-007",
+    "styleRef": "29393282",
+    "name": "Round Neck Printed Pure Cotton T-shirt · L",
+    "gender": "Unisex",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 358,
+    "mrp": 1199,
+    "discount": 70,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p16.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "L",
+        "sku": "WS-TS-007-L",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-008",
+    "styleRef": "29393280",
+    "name": "Graphic Printed Pure Cotton Regular Fit T-shirt · M",
+    "gender": "Unisex",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 358,
+    "mrp": 1199,
+    "discount": 70,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p17.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "M",
+        "sku": "WS-TS-008-M",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-009",
+    "styleRef": "29393276",
+    "name": "Typography Printed Pure Cotton Regular Fit T-shirt · L",
+    "gender": "Unisex",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 358,
+    "mrp": 1199,
+    "discount": 70,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p18.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "L",
+        "sku": "WS-TS-009-L",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-010",
+    "styleRef": "29393274",
+    "name": "Graphic Printed Pure Cotton Regular Fit T-shirt · M",
+    "gender": "Unisex",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 358,
+    "mrp": 1199,
+    "discount": 70,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p16.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "M",
+        "sku": "WS-TS-010-M",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-011",
+    "styleRef": "29392988",
+    "name": "Round Neck Printed Pure Cotton T-shirt · M",
+    "gender": "Unisex",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 358,
+    "mrp": 1199,
+    "discount": 70,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p17.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "M",
+        "sku": "WS-TS-011-M",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-012",
+    "styleRef": "29392986",
+    "name": "Printed Pure Cotton T-shirt · L",
+    "gender": "Unisex",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 358,
+    "mrp": 1199,
+    "discount": 70,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p18.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "L",
+        "sku": "WS-TS-012-L",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-013",
+    "styleRef": "29392984",
+    "name": "Graphic Printed Pure Cotton T-shirt · M",
+    "gender": "Unisex",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 358,
+    "mrp": 1199,
+    "discount": 70,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p16.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "M",
+        "sku": "WS-TS-013-M",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-014",
+    "styleRef": "28916448",
+    "name": "Women Printed Pure Cotton T-shirt · M",
+    "gender": "Women",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 358,
+    "mrp": 1199,
+    "discount": 70,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p17.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "M",
+        "sku": "WS-TS-014-M",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-015",
+    "styleRef": "23912824",
+    "name": "Graphic Printed Pure Cotton Casual T-shirt · M",
+    "gender": "Unisex",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 358,
+    "mrp": 1199,
+    "discount": 70,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p18.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "M",
+        "sku": "WS-TS-015-M",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-016",
+    "styleRef": "23473368",
+    "name": "Graphic Printed Pure Cotton T-shirt · L",
+    "gender": "Unisex",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 358,
+    "mrp": 1199,
+    "discount": 70,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p16.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "L",
+        "sku": "WS-TS-016-L",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-017",
+    "styleRef": "23473364",
+    "name": "Graphic Printed Pure Cotton T-shirt · M",
+    "gender": "Unisex",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 358,
+    "mrp": 1199,
+    "discount": 70,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p17.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "M",
+        "sku": "WS-TS-017-M",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-018",
+    "styleRef": "29956118",
+    "name": "Men Graphic Printed Pure Cotton T-shirt · XXL",
+    "gender": "Men",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 336,
+    "mrp": 1199,
+    "discount": 72,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p18.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "XXL",
+        "sku": "WS-TS-018-XXL",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-019",
+    "styleRef": "27750556",
+    "name": "Graphic Printed Round Neck Short Sleeves Pure Cotton T-shirt · L",
+    "gender": "Unisex",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 336,
+    "mrp": 1199,
+    "discount": 72,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p16.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "L",
+        "sku": "WS-TS-019-L",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-020",
+    "styleRef": "25167362",
+    "name": "Graphic Printed Pure Cotton T-shirt · XXL",
+    "gender": "Unisex",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 336,
+    "mrp": 1199,
+    "discount": 72,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p17.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "XXL",
+        "sku": "WS-TS-020-XXL",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-021",
+    "styleRef": "25167358",
+    "name": "Graphic Printed Pure Cotton T-shirt · M",
+    "gender": "Unisex",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 336,
+    "mrp": 1199,
+    "discount": 72,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p18.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "M",
+        "sku": "WS-TS-021-M",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-022",
+    "styleRef": "24298428",
+    "name": "Graphic Printed Pure Cotton T-shirt · XXL",
+    "gender": "Unisex",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 336,
+    "mrp": 1199,
+    "discount": 72,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p16.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "XXL",
+        "sku": "WS-TS-022-XXL",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-023",
+    "styleRef": "24298422",
+    "name": "Men Graphic Printed Pure Cotton T-shirt · M",
+    "gender": "Men",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 336,
+    "mrp": 1199,
+    "discount": 72,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p17.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "M",
+        "sku": "WS-TS-023-M",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-024",
+    "styleRef": "23589340",
+    "name": "Brand Logo Pure Cotton Regular Fit T-shirt · M",
+    "gender": "Unisex",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 321,
+    "mrp": 999,
+    "discount": 68,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p18.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "M",
+        "sku": "WS-TS-024-M",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-025",
+    "styleRef": "23589354",
+    "name": "Brand Logo Pure Cotton Regular Fit T-shirt · XL",
+    "gender": "Unisex",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 303,
+    "mrp": 999,
+    "discount": 70,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p16.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "XL",
+        "sku": "WS-TS-025-XL",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-026",
+    "styleRef": "23589350",
+    "name": "Brand Logo Pure Cotton Regular Fit T-shirt · M",
+    "gender": "Unisex",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 303,
+    "mrp": 999,
+    "discount": 70,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p17.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "M",
+        "sku": "WS-TS-026-M",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-027",
+    "styleRef": "23589348",
+    "name": "Brand Logo Pure Cotton Regular Fit T-shirt · XL",
+    "gender": "Unisex",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 303,
+    "mrp": 999,
+    "discount": 70,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p18.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "XL",
+        "sku": "WS-TS-027-XL",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-028",
+    "styleRef": "23589344",
+    "name": "Pure Cotton Knitted T-shirt · M",
+    "gender": "Unisex",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 303,
+    "mrp": 999,
+    "discount": 70,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p16.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "M",
+        "sku": "WS-TS-028-M",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-029",
+    "styleRef": "23589342",
+    "name": "Pure Cotton Knitted T-shirt · M",
+    "gender": "Unisex",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 303,
+    "mrp": 999,
+    "discount": 70,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p17.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "M",
+        "sku": "WS-TS-029-M",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-030",
+    "styleRef": "23589338",
+    "name": "Pure Cotton Knitted T-shirt · M",
+    "gender": "Unisex",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 303,
+    "mrp": 999,
+    "discount": 70,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p18.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "M",
+        "sku": "WS-TS-030-M",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-031",
+    "styleRef": "23589384",
+    "name": "Brand Logo Pure Cotton Regular Fit T-shirt · XXL",
+    "gender": "Unisex",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 294,
+    "mrp": 999,
+    "discount": 71,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p16.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "XXL",
+        "sku": "WS-TS-031-XXL",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-032",
+    "styleRef": "23589382",
+    "name": "Pure Cotton Knitted T-shirt · M",
+    "gender": "Unisex",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 294,
+    "mrp": 999,
+    "discount": 71,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p17.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "M",
+        "sku": "WS-TS-032-M",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-033",
+    "styleRef": "23589380",
+    "name": "Brand Logo Pure Cotton Regular Fit T-shirt · XXL",
+    "gender": "Unisex",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 294,
+    "mrp": 999,
+    "discount": 71,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p18.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "XXL",
+        "sku": "WS-TS-033-XXL",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-034",
+    "styleRef": "23589376",
+    "name": "Pure Cotton Knitted T-shirt · XXL",
+    "gender": "Unisex",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 294,
+    "mrp": 999,
+    "discount": 71,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p16.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "XXL",
+        "sku": "WS-TS-034-XXL",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TS-035",
+    "styleRef": "23589374",
+    "name": "Pure Cotton Knitted T-shirt · M",
+    "gender": "Unisex",
+    "category": "T-shirts",
+    "color": "Assorted",
+    "price": 294,
+    "mrp": 999,
+    "discount": 71,
+    "rating": null,
+    "reviews": 0,
+    "tag": "COTTON TEE",
+    "image": "assets/products/p17.jpg",
+    "description": "A playful Wyld Sprog cotton tee made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "M",
+        "sku": "WS-TS-035-M",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-CS-001",
+    "styleRef": "17564432",
+    "name": "Boys Red & Blue Graphic Printed Pure Cotton T-shirt Shorts Clothing Set",
+    "gender": "Boys",
+    "category": "Clothing sets",
+    "color": "Blue",
+    "price": 380,
+    "mrp": 1599,
+    "discount": 76,
+    "rating": null,
+    "reviews": 0,
+    "tag": "PLAY SET",
+    "image": "assets/products/p03.jpg",
+    "description": "A blue Wyld Sprog tee-and-shorts set made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "3-4Y",
+        "sku": "WS-CS-001-3-4Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-CS-002",
+    "styleRef": "17564430",
+    "name": "Boys Red & White Printed T-shirt With Shorts",
+    "gender": "Boys",
+    "category": "Clothing sets",
+    "color": "White",
+    "price": 380,
+    "mrp": 1599,
+    "discount": 76,
+    "rating": null,
+    "reviews": 0,
+    "tag": "PLAY SET",
+    "image": "assets/products/p04.jpg",
+    "description": "A white Wyld Sprog tee-and-shorts set made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "2-3Y",
+        "sku": "WS-CS-002-2-3Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-CS-003",
+    "styleRef": "15722428",
+    "name": "Boys Grey & Black Printed T-shirt With Shorts",
+    "gender": "Boys",
+    "category": "Clothing sets",
+    "color": "Black",
+    "price": 380,
+    "mrp": 1599,
+    "discount": 76,
+    "rating": null,
+    "reviews": 0,
+    "tag": "PLAY SET",
+    "image": "assets/products/p05.jpg",
+    "description": "A black Wyld Sprog tee-and-shorts set made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "5-6Y",
+        "sku": "WS-CS-003-5-6Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-CS-004",
+    "styleRef": "15708832",
+    "name": "Boys Green & Black Printed T-shirt With Shorts",
+    "gender": "Boys",
+    "category": "Clothing sets",
+    "color": "Green",
+    "price": 380,
+    "mrp": 1599,
+    "discount": 76,
+    "rating": null,
+    "reviews": 0,
+    "tag": "PLAY SET",
+    "image": "assets/products/p06.jpg",
+    "description": "A green Wyld Sprog tee-and-shorts set made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "7-8Y",
+        "sku": "WS-CS-004-7-8Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-CS-005",
+    "styleRef": "15708830",
+    "name": "Boys Blue & Black Printed T-shirt With Shorts",
+    "gender": "Boys",
+    "category": "Clothing sets",
+    "color": "Black",
+    "price": 380,
+    "mrp": 1599,
+    "discount": 76,
+    "rating": null,
+    "reviews": 0,
+    "tag": "PLAY SET",
+    "image": "assets/products/p07.jpg",
+    "description": "A black Wyld Sprog tee-and-shorts set made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "4-5Y",
+        "sku": "WS-CS-005-4-5Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-CS-006",
+    "styleRef": "15708828",
+    "name": "Boys Yellow & Black Printed T-shirt With Shorts",
+    "gender": "Boys",
+    "category": "Clothing sets",
+    "color": "Yellow",
+    "price": 380,
+    "mrp": 1599,
+    "discount": 76,
+    "rating": null,
+    "reviews": 0,
+    "tag": "PLAY SET",
+    "image": "assets/products/p08.jpg",
+    "description": "A yellow Wyld Sprog tee-and-shorts set made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "7-8Y",
+        "sku": "WS-CS-006-7-8Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-CS-007",
+    "styleRef": "15708824",
+    "name": "Boys Blue & Black Printed T-shirt With Shorts",
+    "gender": "Boys",
+    "category": "Clothing sets",
+    "color": "Black",
+    "price": 380,
+    "mrp": 1599,
+    "discount": 76,
+    "rating": null,
+    "reviews": 0,
+    "tag": "PLAY SET",
+    "image": "assets/products/p09.jpg",
+    "description": "A black Wyld Sprog tee-and-shorts set made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "2-3Y",
+        "sku": "WS-CS-007-2-3Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-CS-008",
+    "styleRef": "15708822",
+    "name": "Boys Peach & Black Bunny Printed Pure Cotton T-shirt With Shorts",
+    "gender": "Boys",
+    "category": "Clothing sets",
+    "color": "Black",
+    "price": 380,
+    "mrp": 1599,
+    "discount": 76,
+    "rating": null,
+    "reviews": 0,
+    "tag": "PLAY SET",
+    "image": "assets/products/p10.jpg",
+    "description": "A black Wyld Sprog tee-and-shorts set made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "6-7Y",
+        "sku": "WS-CS-008-6-7Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-CS-009",
+    "styleRef": "15677326",
+    "name": "Boys Yellow & Grey Bunny Printed Cotton T-shirt With Shorts",
+    "gender": "Boys",
+    "category": "Clothing sets",
+    "color": "Yellow",
+    "price": 380,
+    "mrp": 1599,
+    "discount": 76,
+    "rating": null,
+    "reviews": 0,
+    "tag": "PLAY SET",
+    "image": "assets/products/p11.jpg",
+    "description": "A yellow Wyld Sprog tee-and-shorts set made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "5-6Y",
+        "sku": "WS-CS-009-5-6Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-CS-010",
+    "styleRef": "15677324",
+    "name": "Boys Orange & Black Giraffe Printed Cotton T-shirt With Shorts",
+    "gender": "Boys",
+    "category": "Clothing sets",
+    "color": "Orange",
+    "price": 380,
+    "mrp": 1599,
+    "discount": 76,
+    "rating": null,
+    "reviews": 0,
+    "tag": "PLAY SET",
+    "image": "assets/products/p12.jpg",
+    "description": "A orange Wyld Sprog tee-and-shorts set made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "5-6Y",
+        "sku": "WS-CS-010-5-6Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-CS-011",
+    "styleRef": "15677316",
+    "name": "Boys Yellow & Black Dino Printed Cotton T-shirt With Shorts",
+    "gender": "Boys",
+    "category": "Clothing sets",
+    "color": "Yellow",
+    "price": 380,
+    "mrp": 1599,
+    "discount": 76,
+    "rating": null,
+    "reviews": 0,
+    "tag": "PLAY SET",
+    "image": "assets/products/p13.jpg",
+    "description": "A yellow Wyld Sprog tee-and-shorts set made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "7-8Y",
+        "sku": "WS-CS-011-7-8Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-CS-012",
+    "styleRef": "17564436",
+    "name": "Girls Navy Blue & Turquoise Blue Printed T-shirt With Shorts",
+    "gender": "Girls",
+    "category": "Clothing sets",
+    "color": "Turquoise Blue",
+    "price": 309,
+    "mrp": 1599,
+    "discount": 81,
+    "rating": null,
+    "reviews": 0,
+    "tag": "PLAY SET",
+    "image": "assets/products/p14.jpg",
+    "description": "A turquoise blue Wyld Sprog tee-and-shorts set made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "2-3Y",
+        "sku": "WS-CS-012-2-3Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-CS-013",
+    "styleRef": "17564434",
+    "name": "Girls Sea Green & Beige Printed T-shirt With Shorts",
+    "gender": "Girls",
+    "category": "Clothing sets",
+    "color": "Sea Green",
+    "price": 309,
+    "mrp": 1599,
+    "discount": 81,
+    "rating": null,
+    "reviews": 0,
+    "tag": "PLAY SET",
+    "image": "assets/products/p03.jpg",
+    "description": "A sea green Wyld Sprog tee-and-shorts set made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "6-7Y",
+        "sku": "WS-CS-013-6-7Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-CS-014",
+    "styleRef": "17564428",
+    "name": "Girls Purple & White Printed Pure Cotton T-shirt With Shorts",
+    "gender": "Girls",
+    "category": "Clothing sets",
+    "color": "Purple",
+    "price": 309,
+    "mrp": 1599,
+    "discount": 81,
+    "rating": null,
+    "reviews": 0,
+    "tag": "PLAY SET",
+    "image": "assets/products/p04.jpg",
+    "description": "A purple Wyld Sprog tee-and-shorts set made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "2-3Y",
+        "sku": "WS-CS-014-2-3Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-CS-015",
+    "styleRef": "17564426",
+    "name": "Girls Sea Green & Pink Printed Pure Cotton T-shirt With Shorts",
+    "gender": "Girls",
+    "category": "Clothing sets",
+    "color": "Sea Green",
+    "price": 309,
+    "mrp": 1599,
+    "discount": 81,
+    "rating": null,
+    "reviews": 0,
+    "tag": "PLAY SET",
+    "image": "assets/products/p05.jpg",
+    "description": "A sea green Wyld Sprog tee-and-shorts set made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "2-3Y",
+        "sku": "WS-CS-015-2-3Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-CS-016",
+    "styleRef": "15708826",
+    "name": "Girls Sea Green & Red Printed T-shirt With Shorts",
+    "gender": "Girls",
+    "category": "Clothing sets",
+    "color": "Sea Green",
+    "price": 309,
+    "mrp": 1599,
+    "discount": 81,
+    "rating": null,
+    "reviews": 0,
+    "tag": "PLAY SET",
+    "image": "assets/products/p06.jpg",
+    "description": "A sea green Wyld Sprog tee-and-shorts set made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "7-8Y",
+        "sku": "WS-CS-016-7-8Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-CS-017",
+    "styleRef": "15677344",
+    "name": "Girls White & Black Bunny Face Printed Cotton T-shirt With Shorts",
+    "gender": "Girls",
+    "category": "Clothing sets",
+    "color": "White",
+    "price": 309,
+    "mrp": 1599,
+    "discount": 81,
+    "rating": null,
+    "reviews": 0,
+    "tag": "PLAY SET",
+    "image": "assets/products/p07.jpg",
+    "description": "A white Wyld Sprog tee-and-shorts set made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "7-8Y",
+        "sku": "WS-CS-017-7-8Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-CS-018",
+    "styleRef": "15677320",
+    "name": "Girls Pink & Grey Melange Meowcorn Printed Cotton T-shirt With Shorts",
+    "gender": "Girls",
+    "category": "Clothing sets",
+    "color": "Melange",
+    "price": 309,
+    "mrp": 1599,
+    "discount": 81,
+    "rating": null,
+    "reviews": 0,
+    "tag": "PLAY SET",
+    "image": "assets/products/p08.jpg",
+    "description": "A melange Wyld Sprog tee-and-shorts set made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "5-6Y",
+        "sku": "WS-CS-018-5-6Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-CS-019",
+    "styleRef": "15677314",
+    "name": "Girls White & Black Mermaid Printed Cotton T-shirt With Shorts",
+    "gender": "Girls",
+    "category": "Clothing sets",
+    "color": "White",
+    "price": 309,
+    "mrp": 1599,
+    "discount": 81,
+    "rating": null,
+    "reviews": 0,
+    "tag": "PLAY SET",
+    "image": "assets/products/p09.jpg",
+    "description": "A white Wyld Sprog tee-and-shorts set made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "2-3Y",
+        "sku": "WS-CS-019-2-3Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-NS-001",
+    "styleRef": "23336804",
+    "name": "Kids Animal Printed Pure Cotton Night Suit",
+    "gender": "Unisex",
+    "category": "Night suits",
+    "color": "Assorted",
+    "price": 346,
+    "mrp": 1599,
+    "discount": 78,
+    "rating": null,
+    "reviews": 0,
+    "tag": "BEDTIME",
+    "image": "assets/products/p15.jpg",
+    "description": "A playful Wyld Sprog night suit made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "2-3Y",
+        "sku": "WS-NS-001-2-3Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-NS-002",
+    "styleRef": "21056580",
+    "name": "Kids Printed Night Suit",
+    "gender": "Unisex",
+    "category": "Night suits",
+    "color": "Assorted",
+    "price": 346,
+    "mrp": 1599,
+    "discount": 78,
+    "rating": null,
+    "reviews": 0,
+    "tag": "BEDTIME",
+    "image": "assets/products/p01.jpg",
+    "description": "A playful Wyld Sprog night suit made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "2-3Y",
+        "sku": "WS-NS-002-2-3Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-NS-003",
+    "styleRef": "21056578",
+    "name": "Unisex Kids Printed Night Suit",
+    "gender": "Unisex",
+    "category": "Night suits",
+    "color": "Assorted",
+    "price": 346,
+    "mrp": 1599,
+    "discount": 78,
+    "rating": null,
+    "reviews": 0,
+    "tag": "BEDTIME",
+    "image": "assets/products/p02.jpg",
+    "description": "A playful Wyld Sprog night suit made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "2-3Y",
+        "sku": "WS-NS-003-2-3Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-NS-004",
+    "styleRef": "21056574",
+    "name": "Kids Printed Night Suit",
+    "gender": "Unisex",
+    "category": "Night suits",
+    "color": "Assorted",
+    "price": 346,
+    "mrp": 1599,
+    "discount": 78,
+    "rating": null,
+    "reviews": 0,
+    "tag": "BEDTIME",
+    "image": "assets/products/p13.jpg",
+    "description": "A playful Wyld Sprog night suit made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "2-3Y",
+        "sku": "WS-NS-004-2-3Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-NS-005",
+    "styleRef": "20665834",
+    "name": "Kids White & Black Printed Night Suit",
+    "gender": "Unisex",
+    "category": "Night suits",
+    "color": "White",
+    "price": 346,
+    "mrp": 1599,
+    "discount": 78,
+    "rating": null,
+    "reviews": 0,
+    "tag": "BEDTIME",
+    "image": "assets/products/p14.jpg",
+    "description": "A white Wyld Sprog night suit made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "2-3Y",
+        "sku": "WS-NS-005-2-3Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-NS-006",
+    "styleRef": "20665832",
+    "name": "Girls Pink & Green Printed Night Suit",
+    "gender": "Girls",
+    "category": "Night suits",
+    "color": "Green",
+    "price": 346,
+    "mrp": 1599,
+    "discount": 78,
+    "rating": null,
+    "reviews": 0,
+    "tag": "BEDTIME",
+    "image": "assets/products/p15.jpg",
+    "description": "A green Wyld Sprog night suit made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "2-3Y",
+        "sku": "WS-NS-006-2-3Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-NS-007",
+    "styleRef": "20665830",
+    "name": "Boys Orange & Black Printed Night Suit",
+    "gender": "Boys",
+    "category": "Night suits",
+    "color": "Orange",
+    "price": 346,
+    "mrp": 1599,
+    "discount": 78,
+    "rating": null,
+    "reviews": 0,
+    "tag": "BEDTIME",
+    "image": "assets/products/p01.jpg",
+    "description": "A orange Wyld Sprog night suit made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "2-3Y",
+        "sku": "WS-NS-007-2-3Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-NS-008",
+    "styleRef": "20665824",
+    "name": "Kids Rose & Blue Printed Night Suit",
+    "gender": "Unisex",
+    "category": "Night suits",
+    "color": "Blue",
+    "price": 346,
+    "mrp": 1599,
+    "discount": 78,
+    "rating": null,
+    "reviews": 0,
+    "tag": "BEDTIME",
+    "image": "assets/products/p02.jpg",
+    "description": "A blue Wyld Sprog night suit made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "2-3Y",
+        "sku": "WS-NS-008-2-3Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-NS-009",
+    "styleRef": "18443880",
+    "name": "Boys Blue & Black Printed Night Suit",
+    "gender": "Boys",
+    "category": "Night suits",
+    "color": "Black",
+    "price": 346,
+    "mrp": 1599,
+    "discount": 78,
+    "rating": null,
+    "reviews": 0,
+    "tag": "BEDTIME",
+    "image": "assets/products/p13.jpg",
+    "description": "A black Wyld Sprog night suit made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "2-3Y",
+        "sku": "WS-NS-009-2-3Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-NS-010",
+    "styleRef": "17299694",
+    "name": "Boys Orange & Black Printed Pure Cotton Night Suit",
+    "gender": "Boys",
+    "category": "Night suits",
+    "color": "Orange",
+    "price": 346,
+    "mrp": 1599,
+    "discount": 78,
+    "rating": null,
+    "reviews": 0,
+    "tag": "BEDTIME",
+    "image": "assets/products/p14.jpg",
+    "description": "A orange Wyld Sprog night suit made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "2-3Y",
+        "sku": "WS-NS-010-2-3Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-NS-011",
+    "styleRef": "15908004",
+    "name": "Boys Yellow & White Printed Night Suit",
+    "gender": "Boys",
+    "category": "Night suits",
+    "color": "Yellow",
+    "price": 346,
+    "mrp": 1599,
+    "discount": 78,
+    "rating": null,
+    "reviews": 0,
+    "tag": "BEDTIME",
+    "image": "assets/products/p15.jpg",
+    "description": "A yellow Wyld Sprog night suit made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "2-3Y",
+        "sku": "WS-NS-011-2-3Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-NS-012",
+    "styleRef": "15907998",
+    "name": "Boys Turquoise Blue & Yellow Printed Night Suit",
+    "gender": "Boys",
+    "category": "Night suits",
+    "color": "Turquoise Blue",
+    "price": 346,
+    "mrp": 1599,
+    "discount": 78,
+    "rating": null,
+    "reviews": 0,
+    "tag": "BEDTIME",
+    "image": "assets/products/p01.jpg",
+    "description": "A turquoise blue Wyld Sprog night suit made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "2-3Y",
+        "sku": "WS-NS-012-2-3Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-NS-013",
+    "styleRef": "15907996",
+    "name": "Girls Teal & Blue Printed Night Suit",
+    "gender": "Girls",
+    "category": "Night suits",
+    "color": "Blue",
+    "price": 346,
+    "mrp": 1599,
+    "discount": 78,
+    "rating": null,
+    "reviews": 0,
+    "tag": "BEDTIME",
+    "image": "assets/products/p02.jpg",
+    "description": "A blue Wyld Sprog night suit made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "2-3Y",
+        "sku": "WS-NS-013-2-3Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-NS-014",
+    "styleRef": "15907994",
+    "name": "Boys Red & Yellow Printed Night Suit",
+    "gender": "Boys",
+    "category": "Night suits",
+    "color": "Yellow",
+    "price": 346,
+    "mrp": 1599,
+    "discount": 78,
+    "rating": null,
+    "reviews": 0,
+    "tag": "BEDTIME",
+    "image": "assets/products/p13.jpg",
+    "description": "A yellow Wyld Sprog night suit made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "4-5Y",
+        "sku": "WS-NS-014-4-5Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-NS-015",
+    "styleRef": "15677338",
+    "name": "Boys Orange & Black Lazy Panda Printed Cotton Night Suit",
+    "gender": "Boys",
+    "category": "Night suits",
+    "color": "Orange",
+    "price": 346,
+    "mrp": 1599,
+    "discount": 78,
+    "rating": null,
+    "reviews": 0,
+    "tag": "BEDTIME",
+    "image": "assets/products/p14.jpg",
+    "description": "A orange Wyld Sprog night suit made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "2-3Y",
+        "sku": "WS-NS-015-2-3Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-NS-016",
+    "styleRef": "15677336",
+    "name": "Boys Grey & Black Owl Printed Cotton Night Suit",
+    "gender": "Boys",
+    "category": "Night suits",
+    "color": "Black",
+    "price": 346,
+    "mrp": 1599,
+    "discount": 78,
+    "rating": null,
+    "reviews": 0,
+    "tag": "BEDTIME",
+    "image": "assets/products/p15.jpg",
+    "description": "A black Wyld Sprog night suit made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "2-3Y",
+        "sku": "WS-NS-016-2-3Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-NS-017",
+    "styleRef": "15677334",
+    "name": "Girls Grey & Black Sleeping Kitty Printed Cotton Night Suit",
+    "gender": "Girls",
+    "category": "Night suits",
+    "color": "Black",
+    "price": 346,
+    "mrp": 1599,
+    "discount": 78,
+    "rating": null,
+    "reviews": 0,
+    "tag": "BEDTIME",
+    "image": "assets/products/p01.jpg",
+    "description": "A black Wyld Sprog night suit made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "2-3Y",
+        "sku": "WS-NS-017-2-3Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-NS-018",
+    "styleRef": "15677322",
+    "name": "Boys White & Black Monkey Printed Cotton Night Suit",
+    "gender": "Boys",
+    "category": "Night suits",
+    "color": "White",
+    "price": 346,
+    "mrp": 1599,
+    "discount": 78,
+    "rating": null,
+    "reviews": 0,
+    "tag": "BEDTIME",
+    "image": "assets/products/p02.jpg",
+    "description": "A white Wyld Sprog night suit made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "6-7Y",
+        "sku": "WS-NS-018-6-7Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-NS-019",
+    "styleRef": "18443888",
+    "name": "Boys Red & Grey Printed Night Suit",
+    "gender": "Boys",
+    "category": "Night suits",
+    "color": "Grey",
+    "price": 325,
+    "mrp": 1599,
+    "discount": 80,
+    "rating": null,
+    "reviews": 0,
+    "tag": "BEDTIME",
+    "image": "assets/products/p13.jpg",
+    "description": "A grey Wyld Sprog night suit made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "2-3Y",
+        "sku": "WS-NS-019-2-3Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-SW-001",
+    "styleRef": "32133065",
+    "name": "Girls Pack Of 2 Printed Sweat Shirt",
+    "gender": "Girls",
+    "category": "Sweatshirts",
+    "color": "Assorted",
+    "price": 846,
+    "mrp": 3198,
+    "discount": 74,
+    "rating": null,
+    "reviews": 0,
+    "tag": "LAYER UP",
+    "image": "assets/products/p01.jpg",
+    "description": "A playful Wyld Sprog sweatshirt made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "3-4Y",
+        "sku": "WS-SW-001-3-4Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-SW-002",
+    "styleRef": "32133064",
+    "name": "Boys Pack Of 2 Printed Sweat Shirt",
+    "gender": "Boys",
+    "category": "Sweatshirts",
+    "color": "Assorted",
+    "price": 846,
+    "mrp": 3198,
+    "discount": 74,
+    "rating": null,
+    "reviews": 0,
+    "tag": "LAYER UP",
+    "image": "assets/products/p02.jpg",
+    "description": "A playful Wyld Sprog sweatshirt made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "4-5Y",
+        "sku": "WS-SW-002-4-5Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-SW-003",
+    "styleRef": "32133063",
+    "name": "Girls Pack Of 2 Abstract Printed Hooded Pure Cotton Sweat Shirt",
+    "gender": "Girls",
+    "category": "Sweatshirts",
+    "color": "Assorted",
+    "price": 846,
+    "mrp": 3198,
+    "discount": 74,
+    "rating": null,
+    "reviews": 0,
+    "tag": "LAYER UP",
+    "image": "assets/products/p03.jpg",
+    "description": "A playful Wyld Sprog sweatshirt made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "3-4Y",
+        "sku": "WS-SW-003-3-4Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-SW-004",
+    "styleRef": "20008506",
+    "name": "Girls Fluorescent Green Printed Sweat Shirt",
+    "gender": "Girls",
+    "category": "Sweatshirts",
+    "color": "Fluorescent Green",
+    "price": 349,
+    "mrp": 1599,
+    "discount": 78,
+    "rating": null,
+    "reviews": 0,
+    "tag": "LAYER UP",
+    "image": "assets/products/p04.jpg",
+    "description": "A fluorescent green Wyld Sprog sweatshirt made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "6-7Y",
+        "sku": "WS-SW-004-6-7Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-SW-005",
+    "styleRef": "20008504",
+    "name": "Girls Multicoloured Printed Hooded Sweat Shirt",
+    "gender": "Girls",
+    "category": "Sweatshirts",
+    "color": "Multicoloured",
+    "price": 349,
+    "mrp": 1599,
+    "discount": 78,
+    "rating": null,
+    "reviews": 0,
+    "tag": "LAYER UP",
+    "image": "assets/products/p05.jpg",
+    "description": "A multicoloured Wyld Sprog sweatshirt made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "7-8Y",
+        "sku": "WS-SW-005-7-8Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-SW-006",
+    "styleRef": "20008502",
+    "name": "Girls Multicoloured Printed Hooded Sweat Shirt",
+    "gender": "Girls",
+    "category": "Sweatshirts",
+    "color": "Multicoloured",
+    "price": 349,
+    "mrp": 1599,
+    "discount": 78,
+    "rating": null,
+    "reviews": 0,
+    "tag": "LAYER UP",
+    "image": "assets/products/p01.jpg",
+    "description": "A multicoloured Wyld Sprog sweatshirt made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "3-4Y",
+        "sku": "WS-SW-006-3-4Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-SW-007",
+    "styleRef": "19999780",
+    "name": "Boys Blue Printed Sweat Shirt",
+    "gender": "Boys",
+    "category": "Sweatshirts",
+    "color": "Blue",
+    "price": 349,
+    "mrp": 1599,
+    "discount": 78,
+    "rating": null,
+    "reviews": 0,
+    "tag": "LAYER UP",
+    "image": "assets/products/p02.jpg",
+    "description": "A blue Wyld Sprog sweatshirt made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "3-4Y",
+        "sku": "WS-SW-007-3-4Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-SW-008",
+    "styleRef": "19999778",
+    "name": "Girls Pink Printed Sweat Shirt",
+    "gender": "Girls",
+    "category": "Sweatshirts",
+    "color": "Pink",
+    "price": 349,
+    "mrp": 1599,
+    "discount": 78,
+    "rating": null,
+    "reviews": 0,
+    "tag": "LAYER UP",
+    "image": "assets/products/p03.jpg",
+    "description": "A pink Wyld Sprog sweatshirt made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "6-7Y",
+        "sku": "WS-SW-008-6-7Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-SW-009",
+    "styleRef": "15908008",
+    "name": "Girls Purple Printed Sweat Shirt",
+    "gender": "Girls",
+    "category": "Sweatshirts",
+    "color": "Purple",
+    "price": 349,
+    "mrp": 1599,
+    "discount": 78,
+    "rating": null,
+    "reviews": 0,
+    "tag": "LAYER UP",
+    "image": "assets/products/p04.jpg",
+    "description": "A purple Wyld Sprog sweatshirt made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "2-3Y",
+        "sku": "WS-SW-009-2-3Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-SW-010",
+    "styleRef": "15908006",
+    "name": "Girls Red Printed Sweat Shirt",
+    "gender": "Girls",
+    "category": "Sweatshirts",
+    "color": "Red",
+    "price": 349,
+    "mrp": 1599,
+    "discount": 78,
+    "rating": null,
+    "reviews": 0,
+    "tag": "LAYER UP",
+    "image": "assets/products/p05.jpg",
+    "description": "A red Wyld Sprog sweatshirt made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "2-3Y",
+        "sku": "WS-SW-010-2-3Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-SW-011",
+    "styleRef": "15907992",
+    "name": "Boys Navy Blue Printed Sweat Shirt",
+    "gender": "Boys",
+    "category": "Sweatshirts",
+    "color": "Navy Blue",
+    "price": 349,
+    "mrp": 1599,
+    "discount": 78,
+    "rating": null,
+    "reviews": 0,
+    "tag": "LAYER UP",
+    "image": "assets/products/p01.jpg",
+    "description": "A navy blue Wyld Sprog sweatshirt made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "3-4Y",
+        "sku": "WS-SW-011-3-4Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-SW-012",
+    "styleRef": "15664230",
+    "name": "Girls Navy Blue & White Cute Kitty Print Sweat Shirt",
+    "gender": "Girls",
+    "category": "Sweatshirts",
+    "color": "Navy Blue",
+    "price": 349,
+    "mrp": 1599,
+    "discount": 78,
+    "rating": null,
+    "reviews": 0,
+    "tag": "LAYER UP",
+    "image": "assets/products/p02.jpg",
+    "description": "A navy blue Wyld Sprog sweatshirt made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "2-3Y",
+        "sku": "WS-SW-012-2-3Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-SW-013",
+    "styleRef": "15510514",
+    "name": "Boys Yellow Printed Sweat Shirt",
+    "gender": "Boys",
+    "category": "Sweatshirts",
+    "color": "Yellow",
+    "price": 349,
+    "mrp": 1599,
+    "discount": 78,
+    "rating": null,
+    "reviews": 0,
+    "tag": "LAYER UP",
+    "image": "assets/products/p03.jpg",
+    "description": "A yellow Wyld Sprog sweatshirt made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "2-3Y",
+        "sku": "WS-SW-013-2-3Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-SW-014",
+    "styleRef": "15510506",
+    "name": "Girls Yellow & Red Printed Sweat Shirt",
+    "gender": "Girls",
+    "category": "Sweatshirts",
+    "color": "Yellow",
+    "price": 349,
+    "mrp": 1599,
+    "discount": 78,
+    "rating": null,
+    "reviews": 0,
+    "tag": "LAYER UP",
+    "image": "assets/products/p04.jpg",
+    "description": "A yellow Wyld Sprog sweatshirt made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "6-7Y",
+        "sku": "WS-SW-014-6-7Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TP-001",
+    "styleRef": "32133107",
+    "name": "Girls Pack Of 2 Printed Cotton Joggers",
+    "gender": "Girls",
+    "category": "Track pants",
+    "color": "Assorted",
+    "price": 846,
+    "mrp": 2998,
+    "discount": 72,
+    "rating": null,
+    "reviews": 0,
+    "tag": "EASY MOVE",
+    "image": "assets/products/p02.jpg",
+    "description": "A playful Wyld Sprog joggers made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "3-4Y",
+        "sku": "WS-TP-001-3-4Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TP-002",
+    "styleRef": "20666960",
+    "name": "Girls Black Graphic Printed Cotton Joggers",
+    "gender": "Girls",
+    "category": "Track pants",
+    "color": "Black",
+    "price": 376,
+    "mrp": 1499,
+    "discount": 75,
+    "rating": null,
+    "reviews": 0,
+    "tag": "EASY MOVE",
+    "image": "assets/products/p07.jpg",
+    "description": "A black Wyld Sprog joggers made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "5-6Y",
+        "sku": "WS-TP-002-5-6Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  },
+  {
+    "sku": "WS-TP-003",
+    "styleRef": "20666958",
+    "name": "Girls Navy Blue Graphic Printed Cotton Joggers",
+    "gender": "Girls",
+    "category": "Track pants",
+    "color": "Navy Blue",
+    "price": 376,
+    "mrp": 1499,
+    "discount": 75,
+    "rating": null,
+    "reviews": 0,
+    "tag": "EASY MOVE",
+    "image": "assets/products/p11.jpg",
+    "description": "A navy blue Wyld Sprog joggers made for big imaginations and everyday play. Soft, easy to wear, and ready for whatever comes next.",
+    "sizes": [
+      {
+        "size": "2-3Y",
+        "sku": "WS-TP-003-2-3Y",
+        "available": true,
+        "stock": null
+      }
+    ]
+  }
+];

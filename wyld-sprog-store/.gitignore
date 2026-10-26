@@ -1,0 +1,6 @@
+# Runtime order data and temporary writes. Keep customer information out of Git.
+data/orders.json
+data/*.tmp
+catalog.js.*.tmp
+node_modules/
+.DS_Store
